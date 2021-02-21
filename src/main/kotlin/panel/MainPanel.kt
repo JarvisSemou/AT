@@ -15,7 +15,6 @@ import state.Panel
 /**
  * 开始界面
  *
- * @author Jarvis Semou
  */
 @Composable
 fun MainPanel(
